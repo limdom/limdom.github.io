@@ -1,1 +1,4 @@
-This is an on-going compilation of data science projects to demonstrate my proficiency with data science tools and methodologies across varied datasets. As the majority of my data science projects are associated with the UC Berkeley MIDS program, I created a seperate branch called projects to prevent other students from copying my work. Please switch to the projects branch to view my work.
+I am a Manager of Financial Planning and Analysis (Corporate Finance) at a Alternative Asset Manager. With 10+ years of private equity and mezzanine domain experience, I built my career at the intersection of business judgment, analytics, and programming. 
+
+
+As an aspiring data scientist and data engineer, I am currently pursuing a Master of Information and Data Science at UC Berkeley. This branch of the repository makes up the portfolio of projects from the program.
