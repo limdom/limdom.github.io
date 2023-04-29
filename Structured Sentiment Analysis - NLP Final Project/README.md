@@ -21,7 +21,7 @@ The proposed model demonstrated compelling performance when compared against the
 
 ## System Overview
 
-![system_overview](img/system_overview.png )
+<img src="img/system_overview.png" width="500">
 
 ## Setup
 
