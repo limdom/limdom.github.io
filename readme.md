@@ -2,3 +2,5 @@ I am a Manager of Financial Planning and Analysis (Corporate Finance) at a Alter
 
 
 As an aspiring data scientist and data engineer, I am currently pursuing a Master of Information and Data Science at UC Berkeley. This branch of the repository makes up the portfolio of projects from the program.
+
+If you have any questions, please feel free to reach me limdo@berkeley.edu.
